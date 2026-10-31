@@ -26,7 +26,7 @@ mysql -u root -p
 
 执行SQL脚本：
 ```sql
-source D:/毕业设计/2026-biyesheji/009-backend/src/main/resources/sql/express_system.sql
+source D:/毕业设计/2027-biyesheji/009-backend/src/main/resources/sql/express_system.sql
 ```
 
 或者直接在Navicat等工具中导入 `express_system.sql` 文件

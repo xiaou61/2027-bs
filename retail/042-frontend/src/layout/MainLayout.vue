@@ -41,7 +41,7 @@
       <router-view />
     </el-main>
     <el-footer class="footer">
-      <p>© 2026 房屋租赁管理系统 - 毕业设计项目</p>
+      <p>© 2027 房屋租赁管理系统 - 毕业设计项目</p>
     </el-footer>
   </div>
 </template>

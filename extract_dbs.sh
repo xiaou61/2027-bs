@@ -1,6 +1,6 @@
 #!/bin/bash
 # 提取所有数据库名称并创建
-cd "D:/毕业设计/2026-biyesheji"
+cd "D:/毕业设计/2027-biyesheji"
 
 echo "-- 自动提取的数据库列表" > all_databases.sql
 echo "-- 生成时间: $(date)" >> all_databases.sql

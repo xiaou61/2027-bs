@@ -29,7 +29,7 @@
         <router-view />
       </el-main>
       <el-footer class="footer">
-        <div>© 2026 小梦想全球公益捐赠平台</div>
+        <div>© 2027 小梦想全球公益捐赠平台</div>
       </el-footer>
     </el-container>
   </div>

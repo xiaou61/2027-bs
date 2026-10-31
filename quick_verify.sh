@@ -1,6 +1,6 @@
 #!/bin/bash
 # 快速验证脚本 - 检查项目结构完整性
-cd "D:/毕业设计/2026-biyesheji"
+cd "D:/毕业设计/2027-biyesheji"
 mkdir -p verification
 
 BACKEND_REPORT="verification/backend_structure.txt"

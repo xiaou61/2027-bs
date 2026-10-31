@@ -74,7 +74,7 @@ SELECT * FROM user;
 ### 1. 克隆或下载项目
 
 ```bash
-cd D:\毕业设计\2026-biyesheji
+cd D:\毕业设计\2027-biyesheji
 ```
 
 ### 2. 修改数据库配置

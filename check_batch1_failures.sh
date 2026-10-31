@@ -1,6 +1,6 @@
 #!/bin/bash
 # Check batch 1 frontend build results in detail
-cd "D:/毕业设计/2026-biyesheji"
+cd "D:/毕业设计/2027-biyesheji"
 
 echo "=== Batch 1 Frontend Build Detail Check ==="
 echo ""

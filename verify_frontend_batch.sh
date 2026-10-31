@@ -2,12 +2,12 @@
 # 前端批量构建验证脚本
 # 用法: bash verify_frontend_batch.sh [起始编号] [结束编号]
 
-cd "D:/毕业设计/2026-biyesheji"
+cd "D:/毕业设计/2027-biyesheji"
 
 START=${1:-1}
 END=${2:-200}
-RESULTS_FILE="D:/毕业设计/2026-biyesheji/verification/frontend_${START}_${END}.txt"
-mkdir -p "D:/毕业设计/2026-biyesheji/verification"
+RESULTS_FILE="D:/毕业设计/2027-biyesheji/verification/frontend_${START}_${END}.txt"
+mkdir -p "D:/毕业设计/2027-biyesheji/verification"
 
 echo "=== 前端构建验证 [$START-$END] ===" > "$RESULTS_FILE"
 echo "开始时间: $(date)" >> "$RESULTS_FILE"

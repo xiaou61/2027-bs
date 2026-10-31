@@ -100,13 +100,13 @@ https://via.placeholder.com/300x200?text=商品名称
 将下载的图片放到以下目录：
 
 ```
-D:\毕业设计\2026-biyesheji\003-backend\src\main\resources\static\images\products\
+D:\毕业设计\2027-biyesheji\003-backend\src\main\resources\static\images\products\
 ```
 
 **完整路径示例：**
 ```
-D:\毕业设计\2026-biyesheji\003-backend\src\main\resources\static\images\products\tomato.jpg
-D:\毕业设计\2026-biyesheji\003-backend\src\main\resources\static\images\products\cabbage.jpg
+D:\毕业设计\2027-biyesheji\003-backend\src\main\resources\static\images\products\tomato.jpg
+D:\毕业设计\2027-biyesheji\003-backend\src\main\resources\static\images\products\cabbage.jpg
 ...
 ```
 

@@ -2,7 +2,7 @@
 # 全量验证脚本 - 后端编译 + 前端构建
 # 用法: bash verify_all.sh
 
-cd "D:/毕业设计/2026-biyesheji"
+cd "D:/毕业设计/2027-biyesheji"
 
 BACKEND_RESULTS="verification/backend_results.txt"
 FRONTEND_RESULTS="verification/frontend_results.txt"

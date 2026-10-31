@@ -3,7 +3,7 @@
 # 用法: bash verify_backend_batch.sh [起始编号] [结束编号]
 # 例如: bash verify_backend_batch.sh 1 50
 
-cd "D:/毕业设计/2026-biyesheji"
+cd "D:/毕业设计/2027-biyesheji"
 
 START=${1:-1}
 END=${2:-200}

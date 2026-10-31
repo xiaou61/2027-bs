@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: 2026 毕设项目合集
+  name: 2027 毕设项目合集
   text: Spring Boot + Vue3 毕业设计项目
   tagline: 200 个精选项目，覆盖教育、医疗、电商、社区、政企数字化等多个领域，可按分类、技术栈与功能场景快速筛选
   actions:

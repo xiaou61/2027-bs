@@ -1,5 +1,5 @@
 {
-  "name": "2026-biyesheji",
+  "name": "2027-biyesheji",
   "version": "1.0.0",
   "description": "[标题速看](readme_simple.md)",
   "main": "index.js",
@@ -17,16 +17,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiaou61/2026-bs.git"
+    "url": "git+https://github.com/xiaou61/2027-bs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/xiaou61/2026-bs/issues"
+    "url": "https://github.com/xiaou61/2027-bs/issues"
   },
-  "homepage": "https://github.com/xiaou61/2026-bs#readme",
+  "homepage": "https://github.com/xiaou61/2027-bs#readme",
   "devDependencies": {
     "vitepress": "^1.6.4"
   }

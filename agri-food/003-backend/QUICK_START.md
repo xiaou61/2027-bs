@@ -16,7 +16,7 @@
 mysql -u root -p
 
 -- 执行初始化脚本
-source D:/毕业设计/2026-biyesheji/003-backend/src/main/resources/sql/init.sql
+source D:/毕业设计/2027-biyesheji/003-backend/src/main/resources/sql/init.sql
 ```
 
 或者：
