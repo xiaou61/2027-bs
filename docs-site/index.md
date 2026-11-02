@@ -64,11 +64,17 @@ features:
     link: /categories/collab-tools
 ---
 
-<div style="margin-top: 2.5rem; padding: 1.25rem 1.5rem; border: 1px solid var(--vp-c-brand-1); border-radius: 12px; background: linear-gradient(135deg, rgba(60,120,255,.06), rgba(120,60,255,.06)); text-align: center;">
-  <p style="margin: 0 0 .35rem; font-size: 1.1rem; font-weight: 600; color: var(--vp-c-brand-1);">
+<div style="margin-top: 2.5rem; padding: 1.5rem; border: 1px solid var(--vp-c-brand-1); border-radius: 12px; background: linear-gradient(135deg, rgba(60,120,255,.06), rgba(120,60,255,.06)); text-align: center;">
+  <p style="margin: 0 0 .4rem; font-size: 1.15rem; font-weight: 600; color: var(--vp-c-brand-1);">
     🎓 需要定制毕业设计？源码部署、选题指导、功能定制、论文与答辩辅导
   </p>
-  <p style="margin: 0; font-size: 1.35rem; font-weight: 700; letter-spacing: .03em;">
-    联系 QQ：<a href="https://qm.qq.com/cgi-bin/qm/qr?k=3153566913" target="_blank" rel="noopener" style="color: var(--vp-c-brand-1); text-decoration: underline;">3153566913</a>
+  <p style="margin: 0 0 1.2rem; font-size: .95rem; color: var(--vp-c-text-2);">
+    进入网站提交需求，查看服务范围与报价
+  </p>
+  <a href="http://36.140.150.167:3100/" target="_blank" rel="noopener" style="display: inline-block; padding: .6rem 1.75rem; border-radius: 8px; background: var(--vp-c-brand-1); color: #fff; font-size: 1rem; font-weight: 600; text-decoration: none;">
+    🌐 进入网站咨询
+  </a>
+  <p style="margin: .8rem 0 0; font-size: .85rem; color: var(--vp-c-text-3); letter-spacing: .02em;">
+    http://36.140.150.167:3100/
   </p>
 </div>

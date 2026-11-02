@@ -2,15 +2,44 @@
 
 > 200 个基于 Spring Boot、Vue、微信小程序等技术的计算机毕业设计项目，覆盖校园、社区、电商、医疗、养老、农业和企业信息化等方向。
 
-> 📌 **需要定制毕业设计、源码部署或二次开发？请访问 [http://36.140.150.167:3100/](http://36.140.150.167:3100/)，也可 QQ 联系 `3153566913`**（支持选题指导、功能定制、论文与答辩辅导）
+<p align="center">
+  <b>200</b> 个项目 · <b>15</b> 个业务分类 · 全部含运行截图 · 全部含启动与数据库说明
+</p>
+
+> 📌 **需要定制毕业设计、源码部署或二次开发？请进入网站咨询：[http://36.140.150.167:3100/](http://36.140.150.167:3100/)**（支持选题指导、功能定制、论文与答辩辅导）
 
 本仓库是一个项目集合仓库。每个项目按编号拆分为后端、前端或小程序模块；项目级说明和源码统计由文档站统一生成，方便按场景、技术栈和项目规模筛选。
 
 <p align="center">
+  <a href="#项目演示">项目演示</a> |
   <a href="#项目索引">项目索引</a> |
   <a href="#快速开始">快速开始</a> |
   <a href="#文档开发">文档开发</a> |
   <a href="#维护约定">维护约定</a>
+</p>
+
+---
+
+<a name="项目演示"></a>
+## 项目演示
+
+> 每个项目的运行截图见 [项目演示图集](项目演示图集.md)：200 个项目按 15 个业务分类排版，点击任意截图进入该项目的多图详览页。
+
+<table>
+<tr>
+<td align="center" width="33%"><a href="docs/previews/projects/002.md"><img src="docs/previews/assets/002/admin-01-dashboard.png" width="100%" alt="002 在线选课与成绩管理系统"></a><br><b>002</b> 在线选课与成绩管理系统</td>
+<td align="center" width="33%"><a href="docs/previews/projects/003.md"><img src="docs/previews/assets/003/admin-01-overview.png" width="100%" alt="003 助农精准扶贫平台"></a><br><b>003</b> 助农精准扶贫平台</td>
+<td align="center" width="33%"><a href="docs/previews/projects/065.md"><img src="docs/previews/assets/065/admin-01-dashboard.png" width="100%" alt="065 名城小区物业管理系统"></a><br><b>065</b> 名城小区物业管理系统</td>
+</tr>
+<tr>
+<td align="center" width="33%"><a href="docs/previews/projects/064.md"><img src="docs/previews/assets/064/admin-01-dashboard.png" width="100%" alt="064 经方药食两用服务平台"></a><br><b>064</b> 经方药食两用服务平台</td>
+<td align="center" width="33%"><a href="docs/previews/projects/068.md"><img src="docs/previews/assets/068/admin-01-dashboard.png" width="100%" alt="068 周边游平台个人管理模块"></a><br><b>068</b> 周边游平台个人管理模块 🔥最新</td>
+<td align="center" width="33%"><a href="docs/previews/projects/074.md"><img src="docs/previews/assets/074/admin-01-dashboard.png" width="100%" alt="074 手工艺品销售系统"></a><br><b>074</b> 基于SpringBoot和Vue的手工艺品销售系统 🔥最新</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="项目演示图集.md"><b>查看全部 200 个项目运行截图 →</b></a>
 </p>
 
 ---
@@ -21,6 +50,7 @@
 | 入口 | 用途 |
 |------|------|
 | [在线文档站](http://36.140.150.167:8013/) | 在线浏览 200 个项目：按 15 大分类、技术栈、功能场景筛选（已部署） |
+| [项目演示图集](项目演示图集.md) | 200 个项目运行截图总览：按 15 个业务分类排版，点图进多图详览 |
 | [文档站源码](docs-site/index.md) | VitePress 文档站源码，本地预览：`npm install && npm run docs:dev` |
 | [项目标题速览](readme_simple.md) | 快速浏览 001-200 的项目名称 |
 | [分类索引](_分类建议.md) | 200 个项目按 15 个业务主类的完整归类和映射 |

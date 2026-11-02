@@ -221,7 +221,7 @@ src/main/java/com/xiaou/ailearning/
 ## 📞 联系方式
 
 - **项目作者**：毕业设计开发团队
-- **技术支持**：QQ 3153566913
+- **技术支持**：定制或咨询请进入网站 http://36.140.150.167:3100/
 - **项目地址**：https://github.com/xiaou-team/ai-learning-assistant
 
 ---

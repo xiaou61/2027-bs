@@ -39,7 +39,7 @@ const sidebar = [
 
 export default defineConfig({
   title: '2027毕设项目合集',
-  description: '200+ Spring Boot + Vue3 毕业设计项目合集 · 定制毕业设计请加QQ 3153566913',
+  description: '200+ Spring Boot + Vue3 毕业设计项目合集 · 定制或咨询请进入网站 http://36.140.150.167:3100/',
   lang: 'zh-CN',
   ignoreDeadLinks: false,
 

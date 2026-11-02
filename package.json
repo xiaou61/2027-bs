@@ -10,8 +10,9 @@
     "docs:dev": "vitepress dev docs-site",
     "docs:build": "vitepress build docs-site",
     "docs:preview": "vitepress preview docs-site",
-    "docs:generate": "node scripts/extract-project-source.mjs && node scripts/generate-vitepress-pages.mjs && node scripts/generate-guide-data.mjs",
+    "docs:generate": "node scripts/extract-project-source.mjs && node scripts/generate-vitepress-pages.mjs && node scripts/generate-guide-data.mjs && node scripts/generate-gallery.mjs",
     "docs:validate": "node scripts/validate-docs.mjs",
+    "docs:gallery": "node scripts/generate-gallery.mjs",
     "docs:check": "npm run docs:generate && npm run docs:validate && npm run docs:build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
